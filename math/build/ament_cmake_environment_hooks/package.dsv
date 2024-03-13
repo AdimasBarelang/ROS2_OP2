@@ -1,0 +1,4 @@
+source;share/math/local_setup.bash
+source;share/math/local_setup.dsv
+source;share/math/local_setup.sh
+source;share/math/local_setup.zsh
